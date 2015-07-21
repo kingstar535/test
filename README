@@ -1,0 +1,8 @@
+mkdir xxx
+cd xxx
+git init
+
+touch yyy
+git add yyy
+git commit -m "zzzzz"
+
