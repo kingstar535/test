@@ -6,3 +6,4 @@ touch yyy
 git add yyy
 git commit -m "zzzzz"
 
+git diff
